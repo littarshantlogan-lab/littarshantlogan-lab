@@ -1,4 +1,3 @@
-<!--
 👋 Hi, I'm Littarshant
 
 -🎓 Secondary School Student
@@ -16,4 +15,4 @@
 -🧩 Practicing problem solving
 -🔨 Building small, practical projects
 -🧼 Writing cleaner and more structured code
--->
+
