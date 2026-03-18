@@ -1,6 +1,5 @@
-👋 Hi, I'm Littarshant
-
 <!--
+👋 Hi, I'm Littarshant
 
 -🎓 Secondary School Student
 -💡 Interested in problem solving, systems, and real-world applications
