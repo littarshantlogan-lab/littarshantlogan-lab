@@ -1,16 +1,17 @@
-## Hi there 👋
+👋 Hi, I'm Littarshant
 
-<!--
-**littarshantlogan-lab/littarshantlogan-lab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Secondary School Student (Software Engineering)
+💡 Interested in problem solving, systems, and real-world applications
+🌏 Based in Malaysia
 
-Here are some ideas to get you started:
+🚀 About Me:
+💻 Currently learning core programming and software development
+🧠 Strong interest in Math + Logic-based thinking
+🔍 Focused on understanding how systems work
+📚 Constantly improving through practice and projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📌 Current Focus:
+📚 Strengthening Computer Science fundamentals
+🧩 Practicing problem solving
+🔨 Building small, practical projects
+🧼 Writing cleaner and more structured code
