@@ -1,6 +1,6 @@
 👋 Hi, I'm Littarshant
 
-🎓 Secondary School Student (Software Engineering)
+🎓 Secondary School Student
 💡 Interested in problem solving, systems, and real-world applications
 🌏 Based in Malaysia
 
